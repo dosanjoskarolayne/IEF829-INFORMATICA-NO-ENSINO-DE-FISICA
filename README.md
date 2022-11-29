@@ -52,6 +52,7 @@ $\nabla \times \vec{E} = -\dfrac{\partial \vec{B}}{\partial t}$
 $$\nabla \times \vec{E} = -\dfrac{\partial \vec{B}}{\partial t}$$
 
 
+![Meu-Malvado-Favorito-Minions-Bob-PNG](https://user-images.githubusercontent.com/118854948/204638620-ffe731c8-ba58-4e29-8e19-f1aa104a2a34.png)
 
 
 
