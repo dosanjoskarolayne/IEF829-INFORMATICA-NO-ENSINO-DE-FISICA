@@ -1,1 +1,1 @@
-
+ Elabore um texto estruturado, coerente e conciso sobre o tema sorteado utilizando todos os recursos do markdown apresentados durante a aula, evitando, neste momento, utilizar comandos do ambiente HTML;
