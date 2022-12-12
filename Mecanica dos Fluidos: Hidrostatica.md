@@ -33,3 +33,11 @@ Quanto maior a área de superfície submersa, maior é o empuxo; quanto maior a 
 ### Principio de Arquimedes
 
 O Princípio de Arquimedes é um princípio físico que afirma que, quando um corpo está imerso parcial ou totalmente em um líquido, este experimenta uma força de flutuação, que é igual ao peso do líquido deslocado pelo corpo. Esta força é conhecida como força de Arquimedes e é igual ao peso do líquido deslocado. É importante lembrar que a densidade do líquido deslocado é importante para determinar a magnitude da força.
+
+### Lei de Stevin
+
+Esta Lei descreve a relação entre a pressão de um fluido e sua altura. Ela afirma que a pressão exercida por um fluido dentro de um recipiente é diretamente proporcional à altura do fluido. Isso significa que, para um dado volume de fluido, quando a altura aumenta, a pressão aumenta de acordo.
+
+A lei de Stevin é representada pela seguinte equação: $P=ρgh$, onde P é a pressão exercida pelo fluido, ρ é a densidade do fluido, g é a aceleração da gravidade e h é a altura do fluido.
+
+A lei de Stevin é frequentemente usada para calcular a pressão exercida por um fluido em um recipiente, como um tubo de água, e também para determinar a força exercida pelo fluido sobre as paredes do recipiente. Além disso, ela pode ser usada para calcular a força exercida por um fluido sobre um objeto imerso nele, oferecendo uma explicação para o princípio da flutuação.
