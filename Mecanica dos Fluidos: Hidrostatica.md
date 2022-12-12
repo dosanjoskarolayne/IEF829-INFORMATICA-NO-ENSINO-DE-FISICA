@@ -9,4 +9,5 @@ Como em todos os estudos, na Hidrostática também existem conceitos e princípi
 
 ### Densidade
 
-A densidade de um objeto consiste no quanto de matéria está presente em determinado volume. Ela é medida em massa por unidade de volume, normalmente em gramas por centímetro cúbico (g/cm³). A densidade de um objeto é importante para determinar suas propriedades físicas, pois ela influencia no seu peso, forma e tamanho. Além disso, ela também pode influenciar na maneira como ele se move no ar ou na água. A densidade também pode ser usada para identificar um objeto, pois alguns materiais têm densidades únicas que os diferenciam dos demais.
+A densidade de um objeto consiste no quanto de matéria está presente em determinado volume. Ela é medida em massa por unidade de volume, normalmente em gramas por centímetro cúbico (g/cm³): $d=m/v$.
+A densidade de um objeto é importante para determinar suas propriedades físicas, pois ela influencia no seu peso, forma e tamanho. Além disso, ela também pode influenciar na maneira como ele se move no ar ou na água. A densidade também pode ser usada para identificar um objeto, pois alguns materiais têm densidades únicas que os diferenciam dos demais.
