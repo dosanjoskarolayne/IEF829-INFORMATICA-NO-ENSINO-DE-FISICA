@@ -21,3 +21,11 @@ Podemos defini-la sendo força por unidade de área $P=F/A$ (atm).
 O aumento da pressão é proporcional à profundidade da coluna, como mostrado pelo princípio de Pascal.
 
 A pressão hidrostática é especialmente importante na hidrostática marinha, quando se considera a força exercida sobre os navios e submarinos.
+
+### Empuxo
+
+Denominamos de Empuxo ( $E$ ou $F_E$ ) uma força que se dá de baixo para cima. Essa força é devida à pressão atmosférica e à pressão diferencial entre a parte superior e inferior da água. A força vertical faz com que a água se mantenha equilibrada e flutue.
+
+A força de empuxo é igual à força resultante da água, que é a força necessária para manter a água flutuando. O empuxo é diretamente proporcional à área de superfície submersa, à densidade da água e à profundidade da água. Dada por: $F_E=dgV$
+
+Quanto maior a área de superfície submersa, maior é o empuxo; quanto maior a densidade da água, maior também é o empuxo; e quanto maior a profundidade da água, maior também é o empuxo. Portanto, a força de empuxo é responsável por manter os objetos flutuando na água.
