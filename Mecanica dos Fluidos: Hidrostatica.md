@@ -45,3 +45,5 @@ A lei de Stevin é frequentemente usada para calcular a pressão exercida por um
 ### Princípio de Pascal
 
 O princípio de Pascal é uma lei fundamental da hidrostática que estabelece que a pressão exercida num ponto qualquer de um fluido em equilíbrio estáticos é igual em todas as direções. Em outras palavras, se a pressão é aplicada a qualquer parte de um fluido, esta pressão será transmitida em todas as direções, com o mesmo valor, independentemente da direção.
+
+Definimos por: $F_1/A_1=F_2/A_2$, onde $F_1$ é a força exercida no ponto A, $A_1$ é a área em que a $F_1$ foi aplicada e assim respectivamente para $F_2$ e $A_2$.
