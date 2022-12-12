@@ -36,7 +36,9 @@ Quanto maior a área de superfície submersa, maior é o empuxo; quanto maior a 
 
 ### 1.4. Principio de Arquimedes
 
-O Princípio de Arquimedes é um princípio físico que afirma que, quando um corpo está imerso parcial ou totalmente em um líquido, este experimenta uma força de flutuação, que é igual ao peso do líquido deslocado pelo corpo. Esta força é conhecida como força de Arquimedes e é igual ao peso do líquido deslocado. É importante lembrar que a densidade do líquido deslocado é importante para determinar a magnitude da força.
+"A força para cima, que recebe o nome de **força de empuxo** e é representada pelo símbolo $\vec{F_e} $ , se deve ao fato de que a pressão da água que envolve o saco aumenta com a profundidade. Assim, a pressão na parte inferior do saco é maior que na parte superior, o que faz com que as forças a que o saco está submetido devido à pressão sejam maiores em módulo na parte de baixo do saco do que na parte de cima." [^1]
+
+> *O Princípio de Arquimedes é um princípio físico que afirma que, quando um corpo está imerso parcial ou totalmente em um líquido, este experimenta uma força de flutuação, que é igual ao peso do líquido deslocado pelo corpo. Esta força é conhecida como força de Arquimedes e é igual ao peso do líquido deslocado. É importante lembrar que a densidade do líquido deslocado é importante para determinar a magnitude da força.*
 
 ### 1.5. Lei de Stevin
 
@@ -51,8 +53,4 @@ A lei de Stevin é frequentemente usada para calcular a pressão exercida por um
 O princípio de Pascal é uma lei fundamental da hidrostática que estabelece que a pressão exercida num ponto qualquer de um fluido em equilíbrio estáticos é igual em todas as direções. Em outras palavras, se a pressão é aplicada a qualquer parte de um fluido, esta pressão será transmitida em todas as direções, com o mesmo valor, independentemente da direção.
 
 Definimos por: $F_1/A_1=F_2/A_2$, onde $F_1$ é a força exercida no ponto A, $A_1$ é a área em que a $F_1$ foi aplicada e assim respectivamente para $F_2$ e $A_2$.
-
-![image](https://user-images.githubusercontent.com/118854948/207123983-2fac2413-e5a8-4533-80f6-13005cb55166.png) [^1]
-
-
 
