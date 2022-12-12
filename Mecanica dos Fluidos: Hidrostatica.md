@@ -41,3 +41,7 @@ Esta Lei descreve a relação entre a pressão de um fluido e sua altura. Ela af
 A lei de Stevin é representada pela seguinte equação: $P=ρgh$, onde P é a pressão exercida pelo fluido, ρ é a densidade do fluido, g é a aceleração da gravidade e h é a altura do fluido.
 
 A lei de Stevin é frequentemente usada para calcular a pressão exercida por um fluido em um recipiente, como um tubo de água, e também para determinar a força exercida pelo fluido sobre as paredes do recipiente. Além disso, ela pode ser usada para calcular a força exercida por um fluido sobre um objeto imerso nele, oferecendo uma explicação para o princípio da flutuação.
+
+### Princípio de Pascal
+
+O princípio de Pascal é uma lei fundamental da hidrostática que estabelece que a pressão exercida num ponto qualquer de um fluido em equilíbrio estáticos é igual em todas as direções. Em outras palavras, se a pressão é aplicada a qualquer parte de um fluido, esta pressão será transmitida em todas as direções, com o mesmo valor, independentemente da direção.
