@@ -22,8 +22,9 @@ O aumento da pressão é proporcional à profundidade da coluna, como mostrado p
 
 A pressão hidrostática é especialmente importante na hidrostática marinha, quando se considera a força exercida sobre os navios e submarinos.
 
-![Teste F2](https://user-images.githubusercontent.com/118854948/207121484-a1623952-a792-497e-85b8-685cfacef1ef.PNG)
+![Teste F2](https://user-images.githubusercontent.com/118854948/207121484-a1623952-a792-497e-85b8-685cfacef1ef.PNG)[^1]
 
+[^1]: HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física: Gravitação, Ondas E Termodinâmica. Vol. 2 . Grupo Gen-LTC, 2000.
 
 ### 1.3. Empuxo
 
