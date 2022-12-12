@@ -22,6 +22,9 @@ O aumento da pressão é proporcional à profundidade da coluna, como mostrado p
 
 A pressão hidrostática é especialmente importante na hidrostática marinha, quando se considera a força exercida sobre os navios e submarinos.
 
+![Teste F2](https://user-images.githubusercontent.com/118854948/207121484-a1623952-a792-497e-85b8-685cfacef1ef.PNG)
+
+
 ### 1.3. Empuxo
 
 Denominamos de Empuxo ( $E$ ou $F_E$ ) uma força que se dá de baixo para cima. Essa força é devida à pressão atmosférica e à pressão diferencial entre a parte superior e inferior da água. A força vertical faz com que a água se mantenha equilibrada e flutue.
