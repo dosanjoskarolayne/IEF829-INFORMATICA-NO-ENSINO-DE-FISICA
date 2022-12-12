@@ -36,7 +36,7 @@ Quanto maior a área de superfície submersa, maior é o empuxo; quanto maior a 
 
 ### 1.4. Principio de Arquimedes
 
-"A força para cima, que recebe o nome de **força de empuxo** e é representada pelo símbolo $\vec{F_e} $ , se deve ao fato de que a pressão da água que envolve o saco aumenta com a profundidade. Assim, a pressão na parte inferior do saco é maior que na parte superior, o que faz com que as forças a que o saco está submetido devido à pressão sejam maiores em módulo na parte de baixo do saco do que na parte de cima." [^1]
+"A força para cima, que recebe o nome de **força de empuxo** e é representada pelo símbolo $\vec{F_e}$ , se deve ao fato de que a pressão da água que envolve o saco aumenta com a profundidade. Assim, a pressão na parte inferior do saco é maior que na parte superior, o que faz com que as forças a que o saco está submetido devido à pressão sejam maiores em módulo na parte de baixo do saco do que na parte de cima." [^1]
 
 > *O Princípio de Arquimedes é um princípio físico que afirma que, quando um corpo está imerso parcial ou totalmente em um líquido, este experimenta uma força de flutuação, que é igual ao peso do líquido deslocado pelo corpo. Esta força é conhecida como força de Arquimedes e é igual ao peso do líquido deslocado. É importante lembrar que a densidade do líquido deslocado é importante para determinar a magnitude da força.*
 
